@@ -1,0 +1,11 @@
+[package]
+name = "patterns"
+version = "0.1.0"
+authors = ["Will Gorman <wgorman@cerner.com>"]
+edition = "2018"
+
+[dependencies]
+
+reqwest = "0.9.17"
+serde = "1.0.92"
+serde_json = "1.0.39"
